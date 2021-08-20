@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Boas Práticas
 
 You can use the [editor on GitHub](https://github.com/sagatechDev/best-practices/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
