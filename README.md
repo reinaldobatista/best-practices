@@ -32,7 +32,6 @@ Syntax highlighted code block
 if($a->b()) {
   return true;
 }
-
 ```
 
 ```javascript
