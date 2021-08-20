@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/sagatechDev/best-practices
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown 2
+### Markdown 
 
 [laravel](/laravel/home.md)
 
